@@ -1,0 +1,15 @@
+Overview of Classes
+
+1. GUI Compontent : Contains Main Class and all the function required to render the UI on screen, creating data structures.
+2. PAL : Class already given , containing enumurations for PAL's.
+3. PALData : Class having getters and setters method for data from PAL.
+4. BMRData : Stores data from CSV Files. Getters and setters for GUIComponents class.
+5. Energy Data : Uses BMRData, getters and setters for using data.
+6. User : Abstract Class that stores user defined fields.
+7. UserEnergyNeeds : Extends User class and sets user data, later for use.
+
+
+	Datastructures used.
+1.ArrayList
+2. Set : Unique data in array list
+3. HashMaps : Storing key value pair for user energy levels,bmr.

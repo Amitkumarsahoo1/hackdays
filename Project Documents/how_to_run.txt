@@ -1,0 +1,8 @@
+From Source folder
+
+	Java_Swing_Application\src : Run the compile and Run command from Here
+Note:
+	1. You need to Set Java class path, in PATH variable to run this.
+
+Java_Swing_Application\src > javac user_energy/GUIComponents.java  
+Java_Swing_Application\src > java user_energy.GUIComponents
